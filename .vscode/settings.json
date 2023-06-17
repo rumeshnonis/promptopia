@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "gitlens.views.commits.avatars": false,
+    "cSpell.ignoreWords": [
+        "Promptopia"
+    ]
+}
